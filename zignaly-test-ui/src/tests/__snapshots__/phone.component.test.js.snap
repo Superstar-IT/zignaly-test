@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PhoneDetail component should redirect to /phones 1`] = `<PhoneDetail />`;

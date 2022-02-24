@@ -1,0 +1,9 @@
+.card-item {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .mb-xs-4 {
+    margin-bottom: 1.5rem!important;
+  }
+}

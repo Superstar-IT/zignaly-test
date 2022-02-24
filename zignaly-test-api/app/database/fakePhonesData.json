@@ -1,0 +1,210 @@
+[
+  {
+    "id": "ac2668fd-f4b5-4175-8956-d8f1920f1324",
+    "model": "Chromebook Tab 10",
+    "network": "GSM / HSPA / LTE",
+    "display": {
+      "type": "IPS LCD",
+      "size": "9.7 inches",
+      "resolution": "1536 x 2048 pixels, 14:3 ratio"
+    },
+    "platform": {
+      "os": "Chrome OS",
+      "cpu": "Hexa-core (4x Cortex-A53 & 2x Cortex-A72)",
+      "gpu": null
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-chromebook-tab-10.jpg"
+  },
+  {
+    "id": "cf63ff0d-ecaa-448d-9456-a225a44c3159",
+    "model": "Iconia Talk S",
+    "network": "GSM / HSPA / LTE",
+    "display": {
+      "type": "IPS LCD",
+      "size": "7.0 inches",
+      "resolution": "720 x 1280 pixels, 16:9 ratio"
+    },
+    "platform": {
+      "os": "Android 6.0 (Marshmallow)",
+      "cpu": "Octa-core 1.3 GHz Cortex-A53",
+      "gpu": "Mali-T720MP2"
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-iconia-talk-s.jpg"
+  },
+  {
+    "id": "6daf7db3-69f4-437b-94fa-eb40aff91977",
+    "model": "Liquid Z6 Plus",
+    "network": "GSM / HSPA / LTE",
+    "display": {
+      "type": "IPS LCD",
+      "size": "5.5 inches",
+      "resolution": "1080 x 1920 pixels, 16:9 ratio"
+    },
+    "platform": {
+      "os": "Android 6.0 (Marshmallow)",
+      "cpu": "Octa-core 1.3 GHz Cortex-A53",
+      "gpu": "Mali-T720MP3"
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-liquid-z6-plus.jpg"
+  },
+  {
+    "id": "6b8a33a2-1315-4fc7-abe7-f880f11de2d3",
+    "model": "Liquid Z6",
+    "network": "GSM / HSPA / LTE",
+    "display": {
+      "type": "IPS LCD",
+      "size": "5.0 inches",
+      "resolution": "720 x 1280 pixels, 16:9 ratio"
+    },
+    "platform": {
+      "os": "Android 6.0 (Marshmallow)",
+      "cpu": "Quad-core 1.25 GHz Cortex-A53",
+      "gpu": "Mali-T720MP2"
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-liquid-z6.jpg"
+  },
+  {
+    "id": "69fd317d-fdeb-4437-985a-f1742aa24d5d",
+    "model": "Iconia Tab 10 A3-A40",
+    "network": "GSM / HSPA / LTE",
+    "display": {
+      "type": "IPS LCD",
+      "size": "10.1 inches",
+      "resolution": "1920 x 1200 pixels, 16:10 ratio"
+    },
+    "platform": {
+      "os": "Android 6.0 (Marshmallow)",
+      "cpu": "Quad-core 1.3 GHz Cortex-A53",
+      "gpu": "Mali-T720 MP2"
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-10-a3-a40.jpg"
+  },
+  {
+    "id": "c839070c-ce76-47dc-853c-783ee21d794d",
+    "model": "Liquid X2",
+    "network": "GSM / HSPA / LTE",
+    "display": {
+      "type": "IPS LCD",
+      "size": "5.5 inches",
+      "resolution": "1080 x 1920 pixels, 16:9 ratio"
+    },
+    "platform": {
+      "os": "Android 5.1 (Lollipop)",
+      "cpu": "Octa-core 1.3 GHz Cortex-A53",
+      "gpu": "Mali-T720MP4"
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-liquid-x2-1.jpg"
+  },
+  {
+    "id": "2be05754-7144-4abc-bf04-163b9c9e49fd",
+    "model": "Liquid Jade 2",
+    "network": "GSM / HSPA / LTE",
+    "display": {
+      "type": "IPS LCD",
+      "size": "5.5 inches",
+      "resolution": "1080 x 1920 pixels, 16:9 ratio"
+    },
+    "platform": {
+      "os": "Android 6.0 (Marshmallow)",
+      "cpu": "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)",
+      "gpu": "Adreno 418"
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-liquid-jade-2.jpg"
+  },
+  {
+    "id": "dc04a247-54e2-45e2-8d7f-d8659fbe2458",
+    "model": "Liquid Zest Plus",
+    "network": "GSM / HSPA / LTE",
+    "display": {
+      "type": "IPS LCD",
+      "size": "5.5 inches",
+      "resolution": "720 x 1280 pixels, 16:9 ratio"
+    },
+    "platform": {
+      "os": "Android 6.0 (Marshmallow)",
+      "cpu": "Quad-core 1.3 GHz Cortex-A53",
+      "gpu": "Mali-T720MP2"
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-liquid-zest-plus-z628.jpg"
+  },
+  {
+    "id": "ebeba0bd-812d-4bb1-b36f-25f929562766",
+    "model": "Liquid Zest",
+    "network": "GSM / HSPA / LTE",
+    "display": {
+      "type": "IPS LCD",
+      "size": "5.0 inches",
+      "resolution": "720 x 1280 pixels, 16:9 ratio"
+    },
+    "platform": {
+      "os": "Android 6.0 (Marshmallow)",
+      "cpu": "Quad-core 1.3 GHz - Z525",
+      "gpu": "Mali-400MP2 - Z525"
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-zest.jpg"
+  },
+  {
+    "id": "1684047d-37b2-43bf-8e63-b1d78ab5ead4",
+    "model": "Predator 8",
+    "network": "No cellular connectivity",
+    "display": {
+      "type": "IPS LCD",
+      "size": "8.0 inches",
+      "resolution": "1920 x 1200 pixels, 16:10 ratio"
+    },
+    "platform": {
+      "os": "Android 5.0 (Lollipop)",
+      "cpu": "Quad-core 1.6 GHz",
+      "gpu": null
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-predator-8.jpg"
+  },
+  {
+    "id": "55b5bf5f-84d2-4e14-b10f-53d638d3bb38",
+    "model": "Liquid Jade Primo",
+    "network": "GSM / HSPA / LTE",
+    "display": {
+      "type": "AMOLED",
+      "size": "5.5 inches",
+      "resolution": "1080 x 1920 pixels, 16:9 ratio"
+    },
+    "platform": {
+      "os": "Microsoft Windows 10",
+      "cpu": "Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)",
+      "gpu": "Adreno 418"
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-liquid-jade-primo-.jpg"
+  },
+  {
+    "id": "4156954f-4ad6-418c-916f-2e35a16ecb3d",
+    "model": "Liquid Z330",
+    "network": "GSM / HSPA / LTE",
+    "display": {
+      "type": "IPS LCD",
+      "size": "4.5 inches",
+      "resolution": "480 x 854 pixels, 16:9 ratio"
+    },
+    "platform": {
+      "os": "Microsoft Windows 10",
+      "cpu": "Quad-core 1.0 GHz Cortex-A7",
+      "gpu": "Adreno 304"
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-liquid-z320-z330.jpg"
+  },
+  {
+    "id": "b4afbd15-146e-47eb-80a8-df8999baa486",
+    "model": "Liquid Z320",
+    "network": "GSM / HSPA",
+    "display": {
+      "type": "IPS LCD",
+      "size": "4.5 inches",
+      "resolution": "480 x 854 pixels, 16:9 ratio"
+    },
+    "platform": {
+      "os": "Android 5.1 (Lollipop)",
+      "cpu": "Quad-core 1.0 GHz Cortex-A7",
+      "gpu": "Adreno 304"
+    },
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-liquid-z320-z330.jpg"
+  }
+]

@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  zignaly-test-api:
+    build: ./zignaly-test-api
+    restart: unless-stopped
+    env_file: ./.env
+    ports:
+      - $NODE_LOCAL_PORT:$NODE_DOCKER_PORT
+    networks:
+      - backend
+      - frontend
+
+  zignaly-test-ui:
+    depends_on:
+      - zignaly-test-api
+    build:
+      context: ./zignaly-test-ui
+      args:
+        - REACT_APP_API_BASE_URL=$CLIENT_API_BASE_URL
+    ports:
+      - $REACT_LOCAL_PORT:$REACT_DOCKER_PORT
+    networks:
+      - frontend  
+
+volumes: 
+  db:
+
+networks:
+  backend:
+  frontend:
